@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ContentIdentifier</key>
+	<string>de.nilsleiffischer.relativity-playgrounds.gravitational-waves</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>Version</key>
+	<string>3.0</string>
+	<key>SwiftVersion</key>
+	<string>3.2</string>
+	<key>MinimumSwiftPlaygroundsVersion</key>
+	<string>2.0</string>
+	<key>DevelopmentRegion</key>
+	<string>en_EN</string>
+	<key>Name</key>
+	<string>Gravitational waves</string>
+	<key>Subtitle</key>
+	<string>Make gravitational waves visible 🔦</string>
+	<key>Description</key>
+	<string>Explore and visualize the gravitational radiation that a binary system of two black holes emits in its evolution.</string>
+	<key>DeploymentTarget</key>
+	<string>ios11.0</string>
+	<key>ImageReference</key>
+	<string>banner.png</string>
+	<key>Chapters</key>
+	<array>
+		<string>Document1.playgroundchapter</string>
+	</array>
+</dict>
+</plist>

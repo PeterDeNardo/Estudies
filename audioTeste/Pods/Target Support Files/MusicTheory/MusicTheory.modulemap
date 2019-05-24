@@ -1,0 +1,6 @@
+framework module MusicTheory {
+  umbrella header "MusicTheory-umbrella.h"
+
+  export *
+  module * { export * }
+}

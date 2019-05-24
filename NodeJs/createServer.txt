@@ -1,0 +1,14 @@
+
+////Abaixo linhas de código que criam um simples web server local
+
+//Importa a biblioteca http para criar o server
+const http = require('http');
+
+//define o server
+const server = http.createServer(function(req, res) {
+    console.log(req);
+    //process.exit()
+});
+
+//mantem o server ouvindo a porta 3000 do Mac
+server.listen(3000)
